@@ -1,5 +1,9 @@
 ### Hola todos 👋
-- 😄 Este es el repositorio de mi página principal desarrollada en bootstrap con todos mis trabajos y conocimiento.
+
+- 😄 Soy FabianSato Desarrollador Web. Trabajo actualmente en Unilever como Webmaster y Para Quadama como desarrollador web. 
+En estos repositorios junto con mi web y youtube trataré de subir mis trabajos y conocimiento en el desarrollo web.
+
+Este es el repositorio de mi página principal desarrollada en bootstrap con todos mis trabajos y conocimiento.
 
 El modus operandi de este sitio es el siguiente:
 - 📓 Anotar cursos en one note ...
