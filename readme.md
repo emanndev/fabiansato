@@ -24,7 +24,9 @@ El modus operandi de este sitio es el siguiente:
  - Python Cheatsheet
  -
   ✨ _Diseño grafico_ ✨ 
+  
   -Illustrator
+ 
   -Illustrator Cheatsheet
   
 
