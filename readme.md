@@ -15,6 +15,19 @@ El modus operandi de este sitio es el siguiente:
 - 📰 actualizar webpage por FTP con este contenido (https://fabiansato.com) y. ...
 - 📲 redes sociales con contenido nuevo. ...
 
+ ✨ _Programación_ ✨ 
+ - C Ejercicios 
+ - C Cheatsheet 
+ - Java Ejercicios 
+ - Java cheatsheet 
+ - Python Ejercicios
+ - Python Cheatsheet
+ -
+  ✨ _Diseño grafico_ ✨ 
+  -Illustrator
+  -Illustrator Cheatsheet
+  
+
 
 <!--
 **fabiansatodev/fabiansatodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
