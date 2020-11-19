@@ -1,16 +1,16 @@
 ### Hola todos 👋
 
 - 😄 Soy FabianSato Desarrollador Web. 
-Trabajo actualmente en Unilever y para Quadama desarrollando todo tipo de webs empresariales. 
+Trabajo actualmente en Unilever y para Quadama como webdeveloper.
 
 En estos repositorios junto con mi web y youtube trataré de subir mis trabajos y conocimiento en el desarrollo web.
 
 Este es el repositorio de mi página principal desarrollada en bootstrap con todos mis trabajos y conocimiento.
 
-El modus operandi de este sitio es el siguiente:
+La menera de estudiar y trabajar será la siguiente:
 - 📓 Anotar cursos en one note ...
 - 📖 Anotar curso + tareas en github ...
-- 📝 Anotar Cheatsheet en github ...  (https://github.com/fabiansatodev/Cheatsheet-Programadores)
+- 📝 Anotar Cheatsheet en github ...
 - 📺 grabar curso para youtube ...
 - 📰 actualizar webpage por FTP con este contenido (https://fabiansato.com) y. ...
 - 📲 redes sociales con contenido nuevo. ...
