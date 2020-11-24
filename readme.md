@@ -7,11 +7,17 @@ En estos repositorios junto con mi web y youtube trataré de subir mis trabajos 
 
 Este es el repositorio de mi página principal desarrollada en bootstrap con todos mis trabajos y conocimiento.
 
-## **Programación**
+## 👨‍💻 **Programación**
  
 ### Markdown
 
 [Cheatsheet Markdown](https://github.com/fabiansato/Markdown-cheatsheet "Markdown Cheatsheet")
+
+### 🐍 Python
+
+[Cheatsheet Python](https://github.com/fabiansato/python-cheatsheet "Cheatsheet Python por fabiansato")
+[Ejercicios Python](https://github.com/fabiansato/Python-Ejercicios "Ejercicios Python por fabiansato")
+[Curso Python](https://github.com/fabiansato/Python-Ejercicios "Ejercicios Python por fabiansato")
 
 <!--
 La menera de estudiar y trabajar será la siguiente:
