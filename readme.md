@@ -16,8 +16,10 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 ### 🐍 Python
 
 [Cheatsheet Python](https://github.com/fabiansato/python-cheatsheet "Cheatsheet Python por fabiansato")
+
 [Ejercicios Python](https://github.com/fabiansato/Python-Ejercicios "Ejercicios Python por fabiansato")
-[Curso Python](https://github.com/fabiansato/Python-Ejercicios "Ejercicios Python por fabiansato")
+
+[Documentación Python](https://github.com/fabiansato/python-cheatsheet/wiki "Documentación Python")
 
 <!--
 La menera de estudiar y trabajar será la siguiente:
