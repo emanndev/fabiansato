@@ -19,6 +19,16 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 
 [Ejercicios Python](https://github.com/fabiansato/Python-Ejercicios "Ejercicios Python por fabiansato")
 
+### 💻 Javascript 
+
+[Cheatsheet Javascript](https://github.com/fabiansato/javascript-cheatsheet "Cheatsheet Python por fabiansato")
+
+[Ejercicios_Javascript](https://github.com/fabiansato/javascript-ejercicios "Ejercicios Javascript por fabiansato")
+
+
+## Utilitarios
+### VSCODE
+[Cheatsheet vscode] (https://github.com/fabiansato/VScode-Cheatsheet "Cheatsheet VSCODE por fabiansato")
 
 <!--
 [Documentación Python](https://github.com/fabiansato/python-cheatsheet/wiki "Documentación Python")
