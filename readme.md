@@ -50,9 +50,9 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 
 [Cheatsheet HTML5](https://github.com/fabiansato/html5-cheatsheet "Cheatsheet de HTML5 por fabiansato")
 
-[Ejercicios_HTML5](https://github.com/fabiansato/javascript-ejercicios "Ejercicios de HTML5 por fabiansato")
+[Ejercicios HTML5](https://github.com/fabiansato/javascript-ejercicios "Ejercicios de HTML5 por fabiansato")
 
-[Codigos_Utiles_HTML5](https://github.com/fabiansato/html5-coolcodes "Códigos útiles de HTML5 por fabiansato")
+[Codigos Utiles HTML5](https://github.com/fabiansato/html5-coolcodes "Códigos útiles de HTML5 por fabiansato")
 
 (adicional)
 HTML 5 con etiquetas semánticas:
