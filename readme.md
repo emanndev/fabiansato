@@ -37,9 +37,9 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 
 ### GIT
  
-### Markdown
--->
 
+-->
+### Markdown
 [Cheatsheet Markdown](https://github.com/fabiansato/Markdown-cheatsheet "Markdown Cheatsheet")
 
 
@@ -47,6 +47,18 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 ## 👨‍💻 **Programación Web**
 
 ### 💻 HTML
+
+[Cheatsheet HTML5](https://github.com/fabiansato/html5-cheatsheet "Cheatsheet de HTML5 por fabiansato")
+
+[Ejercicios_HTML5](https://github.com/fabiansato/javascript-ejercicios "Ejercicios de HTML5 por fabiansato")
+
+[Codigos_Utiles_HTML5](https://github.com/fabiansato/html5-coolcodes "Códigos útiles de HTML5 por fabiansato")
+
+(adicional)
+HTML 5 con etiquetas semánticas:
+[Etiquetas_semanticas_HTML5](https://github.com/fabiansato/html-etiquetas-semanticas "Html con etiquetas semanticas agregadas de HTML5 por fabiansato")
+HTML 5 estructura web:
+[Estructura_web_HTML5](https://github.com/fabiansato/html-estructuraweb "Estructura basica web para trabajar con HTML5 por fabiansato")
 
 <!--
 
