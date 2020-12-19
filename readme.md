@@ -7,7 +7,7 @@ En estos repositorios junto con mi web y youtube trataré de subir mis trabajos 
 
 Este es el repositorio de mi página principal desarrollada en bootstrap con todos mis trabajos y conocimiento.
 
-
+<!--
 ## 💻 **Pseudocódigo**
 
 ### Pseint
@@ -16,6 +16,7 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 ### Terminal
 
 ### Batch
+-->
 
 ## 👨‍💻 **Programación**
 
@@ -26,6 +27,8 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 
 [Ejercicios Python](https://github.com/fabiansato/Python-Ejercicios "Ejercicios Python por fabiansato")
 
+<!--
+
 ### C
 
 ### C++
@@ -35,6 +38,7 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 ### GIT
  
 ### Markdown
+-->
 
 [Cheatsheet Markdown](https://github.com/fabiansato/Markdown-cheatsheet "Markdown Cheatsheet")
 
@@ -43,6 +47,8 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 ## 👨‍💻 **Programación Web**
 
 ### 💻 HTML
+
+<!--
 
 ### 💻 CSS
 
@@ -58,7 +64,7 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 
 ### 💻 PHP
 
-
+-->
 ## Utilitarios
 ### VSCODE
 [Cheatsheet vscode](https://github.com/fabiansato/VScode-Cheatsheet "Cheatsheet VSCODE por fabiansato")
