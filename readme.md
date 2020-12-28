@@ -67,7 +67,7 @@ HTML 5 estructura web:
 
 [Cheatsheet Javascript](https://github.com/fabiansato/javascript-cheatsheet "Cheatsheet Python por fabiansato")
 
-[Ejercicios_Javascript](https://github.com/fabiansato/javascript-ejercicios "Ejercicios Javascript por fabiansato")
+[Ejercicios Javascript](https://github.com/fabiansato/javascript-ejercicios "Ejercicios Javascript por fabiansato")
 
 
 ## 👨‍💻 **Programación Web del lado del servidor**
@@ -79,7 +79,7 @@ HTML 5 estructura web:
 
 [Wiki NodeJS](https://github.com/fabiansato/nodeJS-cheatsheet/wiki/_new "Wiki completo de NodeJS por FabianSato")
 
-[Ejercicios_Javascript](https://github.com/fabiansato/nodejs-ejercicios "Ejercicios NodeJS por FabianSato")
+[Ejercicios de NodeJS](https://github.com/fabiansato/nodejs-ejercicios "Ejercicios NodeJS por FabianSato")
 
 ### 💻 PHP
 ### 💻 MYSQL
