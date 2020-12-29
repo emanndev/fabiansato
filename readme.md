@@ -51,7 +51,7 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 
 [Ejercicios Python](https://github.com/fabiansato/Python-Ejercicios "Ejercicios Python por fabiansato")
 
-<!--
+
 
 ### C
 
@@ -62,7 +62,7 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 ### GIT
  
 
--->
+
 ### Markdown
 [Cheatsheet Markdown](https://github.com/fabiansato/Markdown-cheatsheet "Markdown Cheatsheet")
 
@@ -71,7 +71,8 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 ## 👨‍💻 **Programación Web**
 
 ### 💻 HTML
-<img src="https://fabiansato.github.io/logos/html5.png" alt="HTML5" style="float: left; margin-right: 10px; width:50%; height: 50%;" />
+<img src="https://fabiansato.github.io/logos/html5.png" alt="alt text" width="200"/>
+
 
 [Cheatsheet HTML5](https://github.com/fabiansato/html5-cheatsheet "Cheatsheet de HTML5 por fabiansato")
 
