@@ -17,8 +17,10 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 [Documentación Python](https://github.com/fabiansato/python-cheatsheet/wiki "Documentación Python")
 
 ### C
+<img src="https://fabiansato.github.io/logos/c.png" alt="Programacion en C - Fabian Sato" width="200"/>
 
 ### C++
+<img src="https://fabiansato.github.io/logos/cpp.png" alt="Programacion en C++ - Fabian Sato" width="200"/>
 
 ### Java
 
@@ -125,6 +127,9 @@ HTML 5 estructura web:
 
 ## Adobe Photoshop
 <img src="https://fabiansato.github.io/logos/adobephotohshop.png" alt="alt text" width="200"/>
+
+## **Un Carpincho para descontracturar**
+<img src="https://fabiansato.github.io/logos/capibara.png" alt="Capibara- Fabian Sato" width="200"/>
 
 La menera de estudiar y trabajar será la siguiente:
 - 📓 Anotar cursos en one note ...
