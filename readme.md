@@ -85,10 +85,15 @@ HTML 5 estructura web:
 
 # **Modelos de programación**
 ## 💻 **Pseudocódigo**
-### Pseint
+
+## Pseint
+
 ##Programacion Estructural
+
 ##Programacion orientada a objetos (POO)
+
 ##Programacion Modular
+
 ##Programacion asíncrona
 
 # **Matematicas**
