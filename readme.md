@@ -10,11 +10,17 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 # **Programación**
 ### 🐍 Python
 
+<img src="https://fabiansato.github.io/logos/python.png" alt="alt text" width="200"/>
+
 [Cheatsheet Python](https://github.com/fabiansato/python-cheatsheet "Cheatsheet Python por fabiansato")
 
 [Ejercicios Python](https://github.com/fabiansato/Python-Ejercicios "Ejercicios Python por fabiansato")
 
 [Documentación Python](https://github.com/fabiansato/python-cheatsheet/wiki "Documentación Python")
+
+### 🐍 Pygame
+
+<img src="https://fabiansato.github.io/logos/pygame.png" alt="alt text" width="200"/>
 
 ### C
 <img src="https://fabiansato.github.io/logos/c.png" alt="Programacion en C - Fabian Sato" width="200"/>
@@ -23,7 +29,7 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 <img src="https://fabiansato.github.io/logos/cpp.png" alt="Programacion en C++ - Fabian Sato" width="200"/>
 
 ### Java
-
+<img src="https://fabiansato.github.io/logos/java.png" alt="Programación en Java" width="200"/>
 
  
 
@@ -49,18 +55,33 @@ HTML 5 estructura web:
 
 ### 💻 CSS
 
+<img src="https://fabiansato.github.io/logos/css3.png" alt="alt text" width="200"/>
+
+
 #### BOOTSTRAP
+<img src="https://fabiansato.github.io/logos/bootstrap.png" alt="Programacion en C++ - Fabian Sato" width="200"/>
 
-<img src="https://fabiansato.github.io/logos/bootstrap.png" alt="alt text" width="200"/>
+#### SASS
+<img src="https://fabiansato.github.io/logos/sass.png" alt="Programacion en C++ - Fabian Sato" width="200"/>
 
-### 💻 Javascript 
+### 💻 Javascript
+
+<img src="https://fabiansato.github.io/logos/javascript.png" alt="Programación en Java" width="200"/>
 
 [Cheatsheet Javascript](https://github.com/fabiansato/javascript-cheatsheet "Cheatsheet Python por fabiansato")
 
 [Ejercicios Javascript](https://github.com/fabiansato/javascript-ejercicios "Ejercicios Javascript por fabiansato")
 
+### REACTJS
+
+<img src="https://fabiansato.github.io/logos/reactjs.png" alt="alt text" width="200"/>
+
 
 ### Markdown
+
+<img src="https://fabiansato.github.io/logos/markdown.png" alt="alt text" width="200"/>
+
+
 [Cheatsheet Markdown](https://github.com/fabiansato/Markdown-cheatsheet "Markdown Cheatsheet")
 
 
@@ -69,19 +90,34 @@ HTML 5 estructura web:
 
 
 ### 💻 NodeJS
+<img src="https://fabiansato.github.io/logos/nodejs.png" alt="alt text" width="200"/>
+
 [Cheatsheet NodeJS](https://github.com/fabiansato/nodeJS-cheatsheet "Cheatsheet de NodeJS por FabianSato")
 
 [Wiki NodeJS](https://github.com/fabiansato/nodeJS-cheatsheet/wiki/_new "Wiki completo de NodeJS por FabianSato")
 
 [Ejercicios de NodeJS](https://github.com/fabiansato/nodejs-ejercicios "Ejercicios NodeJS por FabianSato")
 
+### 💻 Npm
+<img src="https://fabiansato.github.io/logos/npm.png" alt="alt text" width="200"/>
+
 ### 💻 PHP
+<img src="https://fabiansato.github.io/logos/php.png" alt="alt text" width="200"/>
+
+
 ### 💻 MYSQL
+<img src="https://fabiansato.github.io/logos/mysql.png" alt="alt text" width="200"/>
 
+### 💻 PHPMYADMIN
+<img src="https://fabiansato.github.io/logos/phpmyadmin.png" alt="alt text" width="200"/>
 
-## 💻 **Terminal**
+## 💻 **TERMINAL**
 ### Terminal
+
+<img src="https://fabiansato.github.io/logos/terminal.png" alt="Programación en Batch" width="200"/>
+
 ### Batch
+
 <img src="https://fabiansato.github.io/logos/batch.png" alt="Programación en Batch" width="200"/>
 
 
@@ -91,6 +127,7 @@ HTML 5 estructura web:
 ## 💻 **Pseudocódigo**
 
 ## Pseint
+<img src="https://fabiansato.github.io/logos/pseint-logo.png" alt="alt text" width="200"/>
 
 ##Programacion Estructural
 
@@ -112,7 +149,13 @@ HTML 5 estructura web:
 
 # **Gestores de versiones**
 ## GIT
+
+<img src="https://fabiansato.github.io/logos/git.png" alt="alt text" width="200"/>
+
 ## GITHUB
+
+<img src="https://fabiansato.github.io/logos/github.png" alt="alt text" width="200"/>
+
 ## BITBUCKET
 
 <img src="https://fabiansato.github.io/logos/bitbucket.png" alt="Bitbucket" width="200"/>
