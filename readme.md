@@ -7,10 +7,6 @@ En estos repositorios junto con mi web y youtube trataré de subir mis trabajos 
 
 Este es el repositorio de mi página principal desarrollada en bootstrap con todos mis trabajos y conocimiento.
 
-
-
-
-
 # **Programación**
 ### 🐍 Python
 
@@ -80,6 +76,8 @@ HTML 5 estructura web:
 ## 💻 **Terminal**
 ### Terminal
 ### Batch
+<img src="https://fabiansato.github.io/logos/batch.png alt="Programación en Batch" width="200"/>
+
 
 
 
@@ -102,11 +100,15 @@ HTML 5 estructura web:
 
 # **Electrónica**
 ###Arduino
+<img src="https://fabiansato.github.io/logos/arduino.png" alt="alt text" width="200"/>
 
 
 # **Gestores de versiones**
-### GIT
-
+## GIT
+## GITHUB
+## BITBUCKET
+<img src="https://fabiansato.github.io/logos/bitbucket.png alt="Bitbucket" width="200"/>
+                                                                                              
 # **Utilitarios**
 ### VSCODE
 [Cheatsheet vscode](https://github.com/fabiansato/VScode-Cheatsheet "Cheatsheet VSCODE por fabiansato")
