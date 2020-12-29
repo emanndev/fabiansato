@@ -7,16 +7,40 @@ En estos repositorios junto con mi web y youtube trataré de subir mis trabajos 
 
 Este es el repositorio de mi página principal desarrollada en bootstrap con todos mis trabajos y conocimiento.
 
-<!--
-## 💻 **Pseudocódigo**
 
-### Pseint
 
-## 💻 Terminal
+
+# **Electrónica**
+###Arduino
+
+
+
+
+
+# **Programación**
+
+# **Programación web**
+
+
+## 💻 **Terminal**
 ### Terminal
-
 ### Batch
--->
+
+# **Modelos de programación**
+## 💻 **Pseudocódigo**
+### Pseint
+##Programacion Estructural
+##Programacion orientada a objetos (POO)
+##Programacion Modular
+##Programacion asíncrona
+
+# **Matematicas**
+###Introduccioon a la matematica
+
+
+
+
+
 
 ## 👨‍💻 **Programación**
 
@@ -87,9 +111,7 @@ HTML 5 estructura web:
 ### 💻 PHP
 ### 💻 MYSQL
 
-$$
-f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi \xi x} \,d\xi
-$$
+
 
 
 ## Utilitarios
