@@ -10,48 +10,15 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 
 
 
-# **Electrónica**
-###Arduino
-
-
-
-
 
 # **Programación**
-
-# **Programación web**
-
-
-## 💻 **Terminal**
-### Terminal
-### Batch
-
-# **Modelos de programación**
-## 💻 **Pseudocódigo**
-### Pseint
-##Programacion Estructural
-##Programacion orientada a objetos (POO)
-##Programacion Modular
-##Programacion asíncrona
-
-# **Matematicas**
-###Introduccioon a la matematica
-
-
-
-
-
-
-## 👨‍💻 **Programación**
-
-
 ### 🐍 Python
 
 [Cheatsheet Python](https://github.com/fabiansato/python-cheatsheet "Cheatsheet Python por fabiansato")
 
 [Ejercicios Python](https://github.com/fabiansato/Python-Ejercicios "Ejercicios Python por fabiansato")
 
-
+[Documentación Python](https://github.com/fabiansato/python-cheatsheet/wiki "Documentación Python")
 
 ### C
 
@@ -59,16 +26,11 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 
 ### Java
 
-### GIT
+
  
 
 
-### Markdown
-[Cheatsheet Markdown](https://github.com/fabiansato/Markdown-cheatsheet "Markdown Cheatsheet")
-
-
-
-## 👨‍💻 **Programación Web**
+# **Programación web**
 
 ### 💻 HTML
 <img src="https://fabiansato.github.io/logos/html5.png" alt="alt text" width="200"/>
@@ -96,8 +58,12 @@ HTML 5 estructura web:
 [Ejercicios Javascript](https://github.com/fabiansato/javascript-ejercicios "Ejercicios Javascript por fabiansato")
 
 
-## 👨‍💻 **Programación Web del lado del servidor**
+### Markdown
+[Cheatsheet Markdown](https://github.com/fabiansato/Markdown-cheatsheet "Markdown Cheatsheet")
 
+
+
+# **Programación web del lado del servidor**
 
 
 ### 💻 NodeJS
@@ -111,14 +77,37 @@ HTML 5 estructura web:
 ### 💻 MYSQL
 
 
+## 💻 **Terminal**
+### Terminal
+### Batch
 
 
-## Utilitarios
+
+# **Modelos de programación**
+## 💻 **Pseudocódigo**
+### Pseint
+##Programacion Estructural
+##Programacion orientada a objetos (POO)
+##Programacion Modular
+##Programacion asíncrona
+
+# **Matematicas**
+###Introduccioon a la matematica
+
+
+# **Electrónica**
+###Arduino
+
+
+# **Gestores de versiones**
+### GIT
+
+# **Utilitarios**
 ### VSCODE
 [Cheatsheet vscode](https://github.com/fabiansato/VScode-Cheatsheet "Cheatsheet VSCODE por fabiansato")
 
 
-[Documentación Python](https://github.com/fabiansato/python-cheatsheet/wiki "Documentación Python")
+
 
 La menera de estudiar y trabajar será la siguiente:
 - 📓 Anotar cursos en one note ...
@@ -136,9 +125,3 @@ La menera de estudiar y trabajar será la siguiente:
  - Python Ejercicios
  - Python Cheatsheet
  -
-  ✨ _Diseño grafico_ ✨ 
-  
-  -Illustrator
- 
-  -Illustrator Cheatsheet
-  
