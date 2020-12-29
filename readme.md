@@ -48,7 +48,7 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 
 ### 💻 HTML
 <img src="https://fabiansato.github.io/logos/html5.png"
-     alt="Markdown Monster icon"
+     alt="HTML5"
      style="float: left; margin-right: 10px; width:50%; height: 50%;" />
 
 [Cheatsheet HTML5](https://github.com/fabiansato/html5-cheatsheet "Cheatsheet de HTML5 por fabiansato")
@@ -86,17 +86,19 @@ HTML 5 estructura web:
 
 ### 💻 PHP
 ### 💻 MYSQL
-<!--
 
--->
+$$
+f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi \xi x} \,d\xi
+$$
+
+
 ## Utilitarios
 ### VSCODE
 [Cheatsheet vscode](https://github.com/fabiansato/VScode-Cheatsheet "Cheatsheet VSCODE por fabiansato")
 
-<!--
+
 [Documentación Python](https://github.com/fabiansato/python-cheatsheet/wiki "Documentación Python")
--->
-<!--
+
 La menera de estudiar y trabajar será la siguiente:
 - 📓 Anotar cursos en one note ...
 - 📖 Anotar curso + tareas en github ...
@@ -119,18 +121,3 @@ La menera de estudiar y trabajar será la siguiente:
  
   -Illustrator Cheatsheet
   
-
-
-**fabiansatodev/fabiansatodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
