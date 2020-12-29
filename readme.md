@@ -111,8 +111,12 @@ HTML 5 estructura web:
 ### VSCODE
 [Cheatsheet vscode](https://github.com/fabiansato/VScode-Cheatsheet "Cheatsheet VSCODE por fabiansato")
 
+# **Diseño gráfico**
+## Adobe Illustrator
+<img src="https://fabiansato.github.io/logos/adobeillustrator.png" alt="alt text" width="200"/>
 
-
+## Adobe Photoshop
+<img src="https://fabiansato.github.io/logos/adobephotohshop.png" alt="alt text" width="200"/>
 
 La menera de estudiar y trabajar será la siguiente:
 - 📓 Anotar cursos en one note ...
