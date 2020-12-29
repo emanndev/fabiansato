@@ -47,6 +47,10 @@ HTML 5 estructura web:
 
 ### 💻 CSS
 
+#### BOOTSTRAP
+
+<img src="https://fabiansato.github.io/logos/bootstrap.png" alt="alt text" width="200"/>
+
 ### 💻 Javascript 
 
 [Cheatsheet Javascript](https://github.com/fabiansato/javascript-cheatsheet "Cheatsheet Python por fabiansato")
@@ -76,7 +80,7 @@ HTML 5 estructura web:
 ## 💻 **Terminal**
 ### Terminal
 ### Batch
-<img src="https://fabiansato.github.io/logos/batch.png alt="Programación en Batch" width="200"/>
+<img src="https://fabiansato.github.io/logos/batch.png" alt="Programación en Batch" width="200"/>
 
 
 
@@ -100,6 +104,7 @@ HTML 5 estructura web:
 
 # **Electrónica**
 ###Arduino
+
 <img src="https://fabiansato.github.io/logos/arduino.png" alt="alt text" width="200"/>
 
 
@@ -107,7 +112,8 @@ HTML 5 estructura web:
 ## GIT
 ## GITHUB
 ## BITBUCKET
-<img src="https://fabiansato.github.io/logos/bitbucket.png alt="Bitbucket" width="200"/>
+
+<img src="https://fabiansato.github.io/logos/bitbucket.png" alt="Bitbucket" width="200"/>
                                                                                               
 # **Utilitarios**
 ### VSCODE
