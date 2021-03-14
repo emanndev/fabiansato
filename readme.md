@@ -94,7 +94,7 @@ HTML 5 estructura web:
 
 [Cheatsheet NodeJS](https://github.com/fabiansato/nodeJS-cheatsheet "Cheatsheet de NodeJS por FabianSato")
 
-[Wiki NodeJS](https://github.com/fabiansato/nodeJS-cheatsheet/wiki/_new "Wiki completo de NodeJS por FabianSato")
+[Wiki NodeJS](https://github.com/fabiansato/nodeJS-cheatsheet/wiki "Wiki completo de NodeJS por FabianSato")
 
 [Ejercicios de NodeJS](https://github.com/fabiansato/nodejs-ejercicios "Ejercicios NodeJS por FabianSato")
 
