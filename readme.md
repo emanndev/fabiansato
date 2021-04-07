@@ -10,7 +10,8 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 # **Programación**
 ### 🐍 Python
 
-<img src="https://fabiansato.github.io/logos/python.png" alt="alt text" width="200"/>
+<img src="https://fabiansato.
+.io/logos/python.png" alt="alt text" width="200"/>
 
 [Cheatsheet Python](https://github.com/fabiansato/python-cheatsheet "Cheatsheet Python por fabiansato")
 
@@ -151,7 +152,7 @@ HTML 5 estructura web:
 ## GIT
 
 <img src="https://fabiansato.github.io/logos/git.png" alt="alt text" width="200"/>
-[Cheatsheet GIT](https://github.com/fabiansato/GIT-Cheatsheet "Cheatsheet de GIT por FabianSato")
+[Cheatsheet GIT](https://github.com/fabiansato/GIT-Cheatsheet "Cheatsheet GIT por fabiansato")
 
 
 ## GITHUB
