@@ -138,7 +138,7 @@ HTML 5 estructura web:
 ##Programacion asíncrona
 
 # **Matematicas**
-###Introduccioon a la matematica
+###Introduccion a la matematica
 
 
 # **Electrónica**
@@ -151,6 +151,8 @@ HTML 5 estructura web:
 ## GIT
 
 <img src="https://fabiansato.github.io/logos/git.png" alt="alt text" width="200"/>
+[Cheatsheet GIT](https://github.com/fabiansato/GIT-Cheatsheet "Cheatsheet de GIT por FabianSato")
+
 
 ## GITHUB
 
