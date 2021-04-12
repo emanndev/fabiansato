@@ -76,7 +76,7 @@ HTML 5 estructura web:
 ### REACTJS
 
 <img src="https://fabiansato.github.io/logos/reactjs.png" alt="alt text" width="200"/>
-[Cheatsheet ReactJS](https://github.com/fabiansato/reactjs-cheatsheet "Cheatsheet ReactJS por fabiansato")
+[Cheatsheet ReactJS](https://github.com/fabiansato/reactjs-cheatsheet/ "Cheatsheet ReactJS por fabiansato")
 
 [Ejercicios ReactJS](https://github.com/fabiansato/reactjs-ejercicios/ "Ejercicios ReactJS por fabiansato")
 
