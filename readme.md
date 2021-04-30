@@ -10,8 +10,7 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 # **Programación**
 ### 🐍 Python
 
-<img src="https://fabiansato.
-.io/logos/python.png" alt="alt text" width="200"/>
+<img src="https://fabiansato.github.io/logos/python.png" alt="alt text" width="200"/>
 
 [Cheatsheet Python](https://github.com/fabiansato/python-cheatsheet "Cheatsheet Python por fabiansato")
 
