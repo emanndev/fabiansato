@@ -18,20 +18,48 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 
 
 
-### 🐍 Pygame
-
-<img src="https://fabiansato.github.io/logos/pygame.png" alt="alt text" width="200"/>
 
 ### C
 <img src="https://fabiansato.github.io/logos/c.png" alt="Programacion en C - Fabian Sato" width="200"/>
 
+[Cheatsheet C](https://github.com/fabiansato/C-Cheatsheet "Cheatsheet C por fabiansato")
+
+[Ejercicios C](https://github.com/fabiansato/c-ejercicios "Ejercicios C por fabiansato")
+
+
 ### C++
 <img src="https://fabiansato.github.io/logos/cpp.png" alt="Programacion en C++ - Fabian Sato" width="200"/>
+
+
+[Cheatsheet C++](https://github.com/fabiansato/cpp-cheatsheet "Cheatsheet C++ por fabiansato")
+
+[Ejercicios C++](https://github.com/fabiansato/cpp-ejercicios "Ejercicios C++ por fabiansato")
+
+
 
 ### Java
 <img src="https://fabiansato.github.io/logos/java.png" alt="Programación en Java" width="200"/>
 
- 
+[Cheatsheet JAVA](https://github.com/fabiansato/java-cheatsheett "Cheatsheet JAVA por fabiansato")
+
+[Ejercicios JAVA](https://github.com/fabiansato/java-ejercicios "Ejercicios JAVA por fabiansato")
+
+
+### 💻 Javascript
+
+<img src="https://fabiansato.github.io/logos/javascript.png" alt="Programación en Java" width="200"/>
+
+[Cheatsheet Javascript](https://github.com/fabiansato/javascript-cheatsheet "Cheatsheet Javascript por fabiansato")
+
+[Ejercicios Javascript](https://github.com/fabiansato/javascript-ejercicios "Ejercicios Javascript por fabiansato")
+
+
+### 💻 PHP
+<img src="https://fabiansato.github.io/logos/php.png" alt="alt text" width="200"/>
+
+[Cheatsheet PHP](https://github.com/fabiansato/php-cheatsheet "Cheatsheet PHP por fabiansato")
+
+[Ejercicios PHP](https://github.com/fabiansato/php-ejercicios "Ejercicios PHP por fabiansato")
 
 
 # **Programación web**
@@ -64,13 +92,7 @@ HTML 5 estructura web:
 #### SASS
 <img src="https://fabiansato.github.io/logos/sass.png" alt="Programacion en C++ - Fabian Sato" width="200"/>
 
-### 💻 Javascript
 
-<img src="https://fabiansato.github.io/logos/javascript.png" alt="Programación en Java" width="200"/>
-
-[Cheatsheet Javascript](https://github.com/fabiansato/javascript-cheatsheet "Cheatsheet Python por fabiansato")
-
-[Ejercicios Javascript](https://github.com/fabiansato/javascript-ejercicios "Ejercicios Javascript por fabiansato")
 
 ### REACTJS
 
@@ -107,8 +129,6 @@ HTML 5 estructura web:
 ### 💻 Npm
 <img src="https://fabiansato.github.io/logos/npm.png" alt="alt text" width="200"/>
 
-### 💻 PHP
-<img src="https://fabiansato.github.io/logos/php.png" alt="alt text" width="200"/>
 
 
 ### 💻 MYSQL
