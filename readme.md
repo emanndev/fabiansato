@@ -40,7 +40,7 @@ Este es el repositorio de mi página principal desarrollada en bootstrap con tod
 ### Java
 <img src="https://fabiansato.github.io/logos/java.png" alt="Programación en Java" width="200"/>
 
-[Cheatsheet JAVA](https://github.com/fabiansato/java-cheatsheett "Cheatsheet JAVA por fabiansato")
+[Cheatsheet JAVA](https://github.com/fabiansato/java-cheatsheet "Cheatsheet JAVA por fabiansato")
 
 [Ejercicios JAVA](https://github.com/fabiansato/java-ejercicios "Ejercicios JAVA por fabiansato")
 
