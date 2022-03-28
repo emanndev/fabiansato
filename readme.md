@@ -140,7 +140,9 @@ HTML 5 estructura web:
 ## 💻 **TERMINAL**
 ### Terminal
 <img src="https://fabiansato.github.io/logos/terminal.png" alt="Programación en Batch" width="200"/>
-[Cheatsheet Terminal Linux ](https://github.com/fabiansato/linux-terminal-cheatsheet "Cheatsheet Terminal Linux por fabiansato")
+
+[Cheatsheet Terminal Linux ](https://github.com/fabiansato/linux-terminal-cheatsheet/ "Cheatsheet Terminal Linux por fabiansato")
+
 
 ### Batch
 
