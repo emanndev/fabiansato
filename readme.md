@@ -179,6 +179,7 @@ HTML 5 estructura web:
 ## GIT
 
 <img src="https://fabiansato.github.io/logos/git.png" alt="alt text" width="200"/>
+
 [Cheatsheet GIT](https://github.com/fabiansato/GIT-Cheatsheet "Cheatsheet GIT por fabiansato")
 
 [Cheatsheet GIT](https://github.com/fabiansato/GIT-Cheatsheet "Cheatsheet GIT por fabiansat")
