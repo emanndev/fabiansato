@@ -1,7 +1,7 @@
 ### Hola todos 👋
 
-- 😄 Soy FabianSato Desarrollador Web. 
-Trabajo actualmente en Unilever y para Quadama como webdeveloper.
+- 😄 Soy FabianSato Ingeniero de Software. 
+Trabajo actualmente en DEPT como ingeniero de software en AEM.
 
 En estos repositorios junto con mi web y youtube trataré de subir mis trabajos y conocimiento en el desarrollo web.
 
