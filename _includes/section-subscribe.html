@@ -1,0 +1,50 @@
+{% if page.url contains '404' %}
+{% else %}
+<!-- begin subscribe -->
+<section class="subscribe section">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+
+        <div class="subscribe__inner">
+          <div class="subscribe__info">
+            <h3 class="subscribe__title">{{ site.data.settings.mailchimp__settings.mailchimp__title }}</h3>
+            <div class="subscribe__subtitle">
+              <span id="ityped"></span>
+            </div>
+          </div>
+
+          <div id="mlb2-4255225" class="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-4255225">
+            <div class="ml-form-align-center">
+              <div class="ml-form-embedWrapper embedForm">
+                <div class="ml-form-embedBody ml-form-embedBodyDefault row-form">
+                  <div class="ml-form-embedContent" style="margin-bottom:0"></div>
+                  <form class="ml-block-form" target="_blank">
+                    <div class="ml-form-formContent">
+
+                    </div>
+
+                    <div class="ml-form-embedSubmit">
+                      <button class="primary" onclick="window.location.href='https://api.whatsapp.com/send?phone=5491128973151'">Mandame Whatsapp &nbsp; <i class="ion ion-logo-whatsapp"></i></button>
+                      <button disabled="disabled" style="display:none" type="button" class="loading"> <div class="ml-form-embedSubmitLoad"></div> <span class="sr-only">Abriendo Whatsapp...</span> </button>
+                    </div>
+
+                  </form>
+                </div>
+                <div class="ml-form-successBody row-success" style="display:none">
+                  <div class="ml-form-successContent">
+                    <h4>¡Espectacular!</h4>
+                    <p>Te uniste a la lista de novedades de Fabian Sato.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- end subscribe -->
+{% endif %}
